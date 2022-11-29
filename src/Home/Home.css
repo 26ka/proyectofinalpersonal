@@ -1,0 +1,7 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotykrl.appspot.com/o/descargar-1-1.jpg?alt=media&token=0a9e5223-cb85-465b-8a36-26aa3476fba0');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+}
